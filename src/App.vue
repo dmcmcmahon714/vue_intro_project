@@ -18,6 +18,9 @@ export default {
   return {
   message: 'Whats up'
   }
+  },
+  methods: {
+  
   }
 }
 </script>
