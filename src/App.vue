@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld :msg="message"/>
     <input type="text" v-model="message" />
+    <button @click="alertMessage">Alert</button>
   </div>
 </template>
 
