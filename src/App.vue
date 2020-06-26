@@ -16,7 +16,7 @@ export default {
   },
   data(){
   return {
-  message: 'YEAH VUE'
+  message: 'Whats up'
   }
   }
 }
